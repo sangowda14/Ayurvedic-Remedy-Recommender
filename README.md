@@ -19,3 +19,9 @@ SplashActivity → LoginActivity / SignUpActivity → HomeActivity
     ├── SearchActivity → DetailsActivity
     ├── AboutActivity
     └── SavedFormulationsActivity → DetailsActivity
+    
+## My Contribution
+This project was completed as a group project.
+Sanjana B.K contributed to:
+- Building a structured symptom-based search feature using XML databases with synonym mapping and contraindication filters  
+- Developing multiple app modules including login/signup, remedy search and remedy details 
