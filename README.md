@@ -9,7 +9,7 @@ An Android application that enables users to search Ayurvedic remedies based on 
 
 ## Tech Stack
 - Platform*: Android (Java)
-- UI Framework*: XML layouts
+- UI Framework: XML layouts
 - Data Handling: Static datasets with mock search logic
 - Storage: Room Database (for favorites)
 - Navigation: Intent-based activity flow
